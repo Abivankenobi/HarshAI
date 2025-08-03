@@ -1,8 +1,8 @@
 streamlit
+pandas
+PyPDF2
+python-dotenv
 langchain
 langchain-google-genai
 google-generativeai
-PyPDF2
-python-dotenv
 faiss-cpu
-pandas
