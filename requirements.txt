@@ -2,7 +2,8 @@ streamlit
 pandas
 PyPDF2
 python-dotenv
-langchain==0.3.30
+langchain==0.1.16
 langchain-google-genai
+langchain-community
 google-generativeai
 faiss-cpu
