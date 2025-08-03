@@ -6,4 +6,3 @@ langchain==0.3.30
 langchain-google-genai
 google-generativeai
 faiss-cpu
-langchain-community
